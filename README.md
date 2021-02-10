@@ -1,1 +1,2 @@
-# snip2ds
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
